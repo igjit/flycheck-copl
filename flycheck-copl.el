@@ -38,7 +38,7 @@
   "A CoPL derivation checker using copl-tools."
   :command ("checker" "-game" (eval (flycheck-copl--current-game)) source)
   :error-patterns
-  ((error line-start (+ not-newline) " -- " "line " line ", character " column "\n" (message) line-end))
+  ((error line-start (+ not-newline) " -- line " line ", character " column "\n" (message) line-end))
   :modes copl-mode)
 
 ;;;###autoload
