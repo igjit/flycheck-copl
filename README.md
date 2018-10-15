@@ -39,6 +39,8 @@ Specify the game as [file local variable][] in your derivation file (`*.copl`).
 // -*- copl-game: "CompareNat1" -*-
 ```
 
+After edit the variable, reopen (`save-buffer` then `revert-buffer`) the buffer.
+
 ## Sample Configuration
 
 ```el
