@@ -57,4 +57,4 @@ After edit the variable, reopen (`save-buffer` then `revert-buffer`) the buffer.
 [copl-mode]: https://github.com/igjit/copl-mode
 [copl-tools]: https://github.com/aigarashi/copl-tools
 [docker-copl-tools]: https://github.com/igjit/docker-copl-tools
-[file local variable]: https://www.gnu.org/software/emacs/manual/html_node/emacs/Specifying-File-Variables.html#Specifying-File-Variables
+[file local variable]: https://www.gnu.org/software/emacs/manual/html_node/emacs/Specifying-File-Variables.html
